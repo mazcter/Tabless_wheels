@@ -1,0 +1,252 @@
+model_name,fuel_type,fuel_price_per_unit,fuel_unit,urban_efficiency,highway_efficiency,real_world_efficiency,efficiency_unit,average_service_cost,warranty_years,warranty_km
+Swift LXi,Petrol,102.45,₹/L,13.86,18.81,16.5,km/L,4500,2,40000
+Swift VXi,Petrol,102.45,₹/L,13.86,18.81,16.5,km/L,4500,2,40000
+Swift ZXi Plus,Petrol,102.45,₹/L,13.86,18.81,16.5,km/L,4500,2,40000
+Creta E,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,5500,3,100000
+Creta S,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,5500,3,100000
+Creta SX,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,5500,3,100000
+Seltos HTE,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,5800,3,100000
+Seltos HTK,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,5800,3,100000
+Seltos HTX,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,5800,3,100000
+Virtus Comfortline,Petrol,102.45,₹/L,13.27,18.01,15.8,km/L,5200,4,100000
+Virtus Highline,Petrol,102.45,₹/L,13.27,18.01,15.8,km/L,5200,4,100000
+Virtus Topline,Petrol,102.45,₹/L,13.27,18.01,15.8,km/L,5200,4,100000
+Slavia Classic,Petrol,102.45,₹/L,13.27,18.01,15.8,km/L,5200,4,100000
+Slavia Signature,Petrol,102.45,₹/L,13.27,18.01,15.8,km/L,5200,4,100000
+Slavia Prestige,Petrol,102.45,₹/L,13.27,18.01,15.8,km/L,5200,4,100000
+City SV,Petrol,102.45,₹/L,12.77,17.33,15.2,km/L,5000,3,100000
+City V,Petrol,102.45,₹/L,12.77,17.33,15.2,km/L,5000,3,100000
+City VX,Petrol,102.45,₹/L,12.77,17.33,15.2,km/L,5000,3,100000
+Hector Style,Petrol,102.45,₹/L,10.42,14.14,12.4,km/L,6500,5,100000
+Hector Shine,Petrol,102.45,₹/L,10.42,14.14,12.4,km/L,6500,5,100000
+Hector Sharp Pro,Petrol,102.45,₹/L,10.42,14.14,12.4,km/L,6500,5,100000
+Tiago XE,Petrol,102.45,₹/L,14.95,20.29,17.8,km/L,4000,3,100000
+Tiago XT,Petrol,102.45,₹/L,14.95,20.29,17.8,km/L,4000,3,100000
+Tiago XZ Plus,Petrol,102.45,₹/L,14.95,20.29,17.8,km/L,4000,3,100000
+Nexon Smart,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5000,3,100000
+Nexon Pure,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5000,3,100000
+Nexon Fearless,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5000,3,100000
+Baleno Sigma,Petrol,102.45,₹/L,15.96,21.66,19.0,km/L,4200,2,40000
+Baleno Delta,Petrol,102.45,₹/L,15.96,21.66,19.0,km/L,4200,2,40000
+Baleno Alpha,Petrol,102.45,₹/L,15.96,21.66,19.0,km/L,4200,2,40000
+Brezza LXi,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,4800,2,40000
+Brezza VXi,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,4800,2,40000
+Brezza ZXi,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,4800,2,40000
+Sonet HTE,Petrol,102.45,₹/L,13.78,18.7,16.4,km/L,5500,3,100000
+Sonet HTK,Petrol,102.45,₹/L,13.78,18.7,16.4,km/L,5500,3,100000
+Sonet HTX,Petrol,102.45,₹/L,13.78,18.7,16.4,km/L,5500,3,100000
+XUV 3XO MX1,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5800,3,100000
+XUV 3XO AX5,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5800,3,100000
+XUV 3XO AX7,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5800,3,100000
+Fronx Sigma,Petrol,102.45,₹/L,15.54,21.09,18.5,km/L,4500,2,40000
+Fronx Delta,Petrol,102.45,₹/L,15.54,21.09,18.5,km/L,4500,2,40000
+Fronx Zeta,Petrol,102.45,₹/L,15.54,21.09,18.5,km/L,4500,2,40000
+Altroz XE,Petrol,102.45,₹/L,15.2,20.63,18.1,km/L,4200,3,100000
+Altroz XM,Petrol,102.45,₹/L,15.2,20.63,18.1,km/L,4200,3,100000
+Altroz XZ,Petrol,102.45,₹/L,15.2,20.63,18.1,km/L,4200,3,100000
+Scorpio-N Z2,Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,7500,3,100000
+Scorpio-N Z4,Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,7500,3,100000
+Scorpio-N Z8,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,7500,3,100000
+Thar AX Opt,Petrol,102.45,₹/L,12.77,17.33,15.2,km/L,7000,3,100000
+Thar LX,Petrol,102.45,₹/L,12.77,17.33,15.2,km/L,7000,3,100000
+Thar Earth,Petrol,102.45,₹/L,12.77,17.33,15.2,km/L,7000,3,100000
+Safari Smart,Diesel,89.6,₹/L,11.84,16.07,14.1,km/L,6000,3,100000
+Safari Pure,Diesel,89.6,₹/L,11.84,16.07,14.1,km/L,6000,3,100000
+Safari Accomplished,Diesel,89.6,₹/L,11.84,16.07,14.1,km/L,6000,3,100000
+Kiger RXE,Petrol,102.45,₹/L,14.7,19.95,17.5,km/L,4800,2,50000
+Kiger RXT,Petrol,102.45,₹/L,14.7,19.95,17.5,km/L,4800,2,50000
+Kiger RXZ,Petrol,102.45,₹/L,14.7,19.95,17.5,km/L,4800,2,50000
+Magnite XE,Petrol,102.45,₹/L,14.62,19.84,17.4,km/L,4800,2,100000
+Magnite XL,Petrol,102.45,₹/L,14.62,19.84,17.4,km/L,4800,2,100000
+Magnite XV,Petrol,102.45,₹/L,14.62,19.84,17.4,km/L,4800,2,100000
+Grand i10 Nios Era,Petrol,102.45,₹/L,15.62,21.2,18.6,km/L,4000,3,100000
+Grand i10 Nios Magna,Petrol,102.45,₹/L,15.62,21.2,18.6,km/L,4000,3,100000
+Grand i10 Nios Asta,Petrol,102.45,₹/L,15.62,21.2,18.6,km/L,4000,3,100000
+Glanza E,Petrol,102.45,₹/L,15.96,21.66,19.0,km/L,4200,3,100000
+Glanza S,Petrol,102.45,₹/L,15.96,21.66,19.0,km/L,4200,3,100000
+Glanza V,Petrol,102.45,₹/L,15.96,21.66,19.0,km/L,4200,3,100000
+Elevate SV,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,5200,3,100000
+Elevate V,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,5200,3,100000
+Elevate ZX,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,5200,3,100000
+Verna EX,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5500,3,100000
+Verna S,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5500,3,100000
+Verna SX Opt,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5500,3,100000
+Kushaq Active,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5200,4,100000
+Kushaq Ambition,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5200,4,100000
+Kushaq Style,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5200,4,100000
+Taigun Comfortline,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5200,4,100000
+Taigun Highline,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5200,4,100000
+Taigun Topline,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,5200,4,100000
+C3 Live,Petrol,102.45,₹/L,15.71,21.32,18.7,km/L,4500,3,100000
+C3 Feel,Petrol,102.45,₹/L,15.71,21.32,18.7,km/L,4500,3,100000
+C3 Shine,Petrol,102.45,₹/L,15.71,21.32,18.7,km/L,4500,3,100000
+Compass Sport,Diesel,89.6,₹/L,12.85,17.44,15.3,km/L,8500,3,100000
+Compass Longitude,Diesel,89.6,₹/L,12.85,17.44,15.3,km/L,8500,3,100000
+Compass Model S,Diesel,89.6,₹/L,12.85,17.44,15.3,km/L,8500,3,100000
+Innova Crysta G,Diesel,89.6,₹/L,9.66,13.11,11.5,km/L,7000,3,100000
+Innova Crysta GX,Diesel,89.6,₹/L,9.66,13.11,11.5,km/L,7000,3,100000
+Innova Crysta VX,Diesel,89.6,₹/L,9.66,13.11,11.5,km/L,7000,3,100000
+Bolero Neo N4,Diesel,89.6,₹/L,13.86,18.81,16.5,km/L,6000,3,100000
+Bolero Neo N8,Diesel,89.6,₹/L,13.86,18.81,16.5,km/L,6000,3,100000
+Bolero Neo N10,Diesel,89.6,₹/L,13.86,18.81,16.5,km/L,6000,3,100000
+Carens Premium,Petrol,102.45,₹/L,12.52,16.99,14.9,km/L,5800,3,100000
+Carens Prestige,Petrol,102.45,₹/L,12.52,16.99,14.9,km/L,5800,3,100000
+Carens Luxury,Petrol,102.45,₹/L,12.52,16.99,14.9,km/L,5800,3,100000
+Dzire LXi,Petrol,102.45,₹/L,16.8,22.8,20.0,km/L,4000,2,40000
+Dzire VXi,Petrol,102.45,₹/L,16.8,22.8,20.0,km/L,4000,2,40000
+Dzire ZXi,Petrol,102.45,₹/L,16.8,22.8,20.0,km/L,4000,2,40000
+Ertiga LXi,Petrol,102.45,₹/L,14.45,19.61,17.2,km/L,4800,2,40000
+Ertiga VXi,Petrol,102.45,₹/L,14.45,19.61,17.2,km/L,4800,2,40000
+Ertiga ZXi,Petrol,102.45,₹/L,14.45,19.61,17.2,km/L,4800,2,40000
+Punch Pure,Petrol,102.45,₹/L,14.62,19.84,17.4,km/L,4200,3,100000
+Punch Adventure,Petrol,102.45,₹/L,14.62,19.84,17.4,km/L,4200,3,100000
+Punch Creative,Petrol,102.45,₹/L,14.62,19.84,17.4,km/L,4200,3,100000
+Venue E,Petrol,102.45,₹/L,14.36,19.49,17.1,km/L,4800,3,100000
+Venue S,Petrol,102.45,₹/L,14.36,19.49,17.1,km/L,4800,3,100000
+Venue SX,Petrol,102.45,₹/L,14.36,19.49,17.1,km/L,4800,3,100000
+Amaze E,Petrol,102.45,₹/L,13.86,18.81,16.5,km/L,4800,3,100000
+Amaze S,Petrol,102.45,₹/L,13.86,18.81,16.5,km/L,4800,3,100000
+Amaze VX,Petrol,102.45,₹/L,13.86,18.81,16.5,km/L,4800,3,100000
+Astor Sprint,Petrol,102.45,₹/L,11.09,15.05,13.2,km/L,7000,5,100000
+Astor Shine,Petrol,102.45,₹/L,11.09,15.05,13.2,km/L,7000,5,100000
+Astor Savvy,Petrol,102.45,₹/L,11.09,15.05,13.2,km/L,7000,5,100000
+Triber RXE,Petrol,102.45,₹/L,15.29,20.75,18.2,km/L,4500,2,50000
+Triber RXT,Petrol,102.45,₹/L,15.29,20.75,18.2,km/L,4500,2,50000
+Triber RXZ,Petrol,102.45,₹/L,15.29,20.75,18.2,km/L,4500,2,50000
+WagonR LXi,Petrol,102.45,₹/L,18.06,24.51,21.5,km/L,3800,2,40000
+WagonR VXi,Petrol,102.45,₹/L,18.06,24.51,21.5,km/L,3800,2,40000
+WagonR ZXi,Petrol,102.45,₹/L,18.06,24.51,21.5,km/L,3800,2,40000
+Creta S IVT,Petrol,102.45,₹/L,11.59,15.73,13.8,km/L,5800,3,100000
+Creta SX IVT,Petrol,102.45,₹/L,11.59,15.73,13.8,km/L,5800,3,100000
+Creta SX Opt IVT,Petrol,102.45,₹/L,11.59,15.73,13.8,km/L,5800,3,100000
+XUV700 AX3 AT,Petrol,102.45,₹/L,12.43,16.87,14.8,km/L,8000,3,100000
+XUV700 AX5 AT,Petrol,102.45,₹/L,12.43,16.87,14.8,km/L,8000,3,100000
+XUV700 AX7 L AT,Petrol,102.45,₹/L,11.93,16.19,14.2,km/L,8000,3,100000
+City V CVT,Petrol,102.45,₹/L,12.43,16.87,14.8,km/L,5200,3,100000
+City VX CVT,Petrol,102.45,₹/L,12.43,16.87,14.8,km/L,5200,3,100000
+City ZX CVT,Petrol,102.45,₹/L,12.43,16.87,14.8,km/L,5200,3,100000
+Virtus Highline AT,Petrol,102.45,₹/L,13.02,17.67,15.5,km/L,5500,4,100000
+Virtus Topline AT,Petrol,102.45,₹/L,13.02,17.67,15.5,km/L,5500,4,100000
+Virtus GT Plus DSG,Petrol,102.45,₹/L,13.02,17.67,15.5,km/L,6000,4,100000
+Nexon Creative DCA,Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,5200,3,100000
+Nexon Fearless DCA,Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,5200,3,100000
+Nexon Fearless Plus DCA,Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,5200,3,100000
+Innova Hycross VX e-CVT,Hybrid,102.45,₹/L,22.16,20.05,21.1,km/L,7500,3,100000
+Innova Hycross ZX e-CVT,Hybrid,102.45,₹/L,22.16,20.05,21.1,km/L,7500,3,100000
+Innova Hycross ZX Opt e-CVT,Hybrid,102.45,₹/L,22.16,20.05,21.1,km/L,7500,3,100000
+Seltos HTX IVT,Petrol,102.45,₹/L,11.17,15.16,13.3,km/L,6000,3,100000
+Seltos GTX Plus DCT,Petrol,102.45,₹/L,10.92,14.82,13.0,km/L,6500,3,100000
+Seltos X-Line DCT,Petrol,102.45,₹/L,10.92,14.82,13.0,km/L,6500,3,100000
+Grand Vitara Delta AT,Hybrid,102.45,₹/L,20.37,18.43,19.4,km/L,5000,2,40000
+Grand Vitara Zeta AT,Hybrid,102.45,₹/L,20.37,18.43,19.4,km/L,5000,2,40000
+Grand Vitara Alpha AT,Hybrid,102.45,₹/L,20.37,18.43,19.4,km/L,5000,2,40000
+Hector Shine CVT,Petrol,102.45,₹/L,10.08,13.68,12.0,km/L,6800,5,100000
+Hector Smart CVT,Petrol,102.45,₹/L,10.08,13.68,12.0,km/L,6800,5,100000
+Hector Savvy Pro CVT,Petrol,102.45,₹/L,10.08,13.68,12.0,km/L,6800,5,100000
+Baleno Delta AMT,Petrol,102.45,₹/L,15.54,21.09,18.5,km/L,4500,2,40000
+Baleno Zeta AMT,Petrol,102.45,₹/L,15.54,21.09,18.5,km/L,4500,2,40000
+Baleno Alpha AMT,Petrol,102.45,₹/L,15.54,21.09,18.5,km/L,4500,2,40000
+Sonet HTK Plus DCT,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5800,3,100000
+Sonet HTX DCT,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5800,3,100000
+Sonet GTX Plus DCT,Petrol,102.45,₹/L,13.44,18.24,16.0,km/L,5800,3,100000
+Scorpio-N Z4 AT,Petrol,102.45,₹/L,11.09,15.05,13.2,km/L,7800,3,100000
+Scorpio-N Z8 AT,Petrol,102.45,₹/L,10.75,14.59,12.8,km/L,7800,3,100000
+Scorpio-N Z8 L AT,Petrol,102.45,₹/L,10.75,14.59,12.8,km/L,7800,3,100000
+Nexon.ev Creative,Electric,8.2,₹/kWh,7.62,5.85,6.8,km/kWh,3500,3,100000
+Nexon.ev Fearless,Electric,8.2,₹/kWh,7.62,5.85,6.8,km/kWh,3500,3,100000
+Nexon.ev Empowered,Electric,8.2,₹/kWh,7.62,5.85,6.8,km/kWh,3500,3,100000
+Punch.ev Smart,Electric,8.2,₹/kWh,8.06,6.19,7.2,km/kWh,3200,3,100000
+Punch.ev Adventure,Electric,8.2,₹/kWh,8.06,6.19,7.2,km/kWh,3200,3,100000
+Punch.ev Empowered,Electric,8.2,₹/kWh,8.06,6.19,7.2,km/kWh,3200,3,100000
+Tiago.ev XE,Electric,8.2,₹/kWh,7.84,6.02,7.0,km/kWh,2800,3,100000
+Tiago.ev XT,Electric,8.2,₹/kWh,7.84,6.02,7.0,km/kWh,2800,3,100000
+Tiago.ev XZ Plus,Electric,8.2,₹/kWh,7.84,6.02,7.0,km/kWh,2800,3,100000
+XUV400 EC Pro,Electric,8.2,₹/kWh,7.28,5.59,6.5,km/kWh,3800,3,100000
+XUV400 EL Pro 34.5,Electric,8.2,₹/kWh,7.28,5.59,6.5,km/kWh,3800,3,100000
+XUV400 EL Pro 39.4,Electric,8.2,₹/kWh,7.28,5.59,6.5,km/kWh,3800,3,100000
+Curvv.ev Creative,Electric,8.2,₹/kWh,7.62,5.85,6.8,km/kWh,4000,3,100000
+Curvv.ev Accomplished,Electric,8.2,₹/kWh,7.62,5.85,6.8,km/kWh,4000,3,100000
+Curvv.ev Empowered,Electric,8.2,₹/kWh,7.62,5.85,6.8,km/kWh,4000,3,100000
+ZS EV Executive,Electric,8.2,₹/kWh,6.5,4.99,5.8,km/kWh,5000,5,100000
+ZS EV Excite,Electric,8.2,₹/kWh,6.5,4.99,5.8,km/kWh,5000,5,100000
+ZS EV Exclusive,Electric,8.2,₹/kWh,6.5,4.99,5.8,km/kWh,5000,5,100000
+Comet EV Executive,Electric,8.2,₹/kWh,10.64,8.17,9.5,km/kWh,3000,5,100000
+Comet EV Excite,Electric,8.2,₹/kWh,10.64,8.17,9.5,km/kWh,3000,5,100000
+Comet EV Exclusive,Electric,8.2,₹/kWh,10.64,8.17,9.5,km/kWh,3000,5,100000
+BYD Atto 3 Dynamic,Electric,8.2,₹/kWh,6.94,5.33,6.2,km/kWh,6500,3,125000
+BYD Atto 3 Premium,Electric,8.2,₹/kWh,6.94,5.33,6.2,km/kWh,6500,3,125000
+BYD Atto 3 Superior,Electric,8.2,₹/kWh,6.94,5.33,6.2,km/kWh,6500,3,125000
+Fortuner 2.7 Petrol AT,Petrol,102.45,₹/L,9.41,12.77,11.2,km/L,9000,3,100000
+Fortuner 2.8 Diesel MT,Diesel,89.6,₹/L,13.27,18.01,15.8,km/L,9500,3,100000
+Fortuner Legender 4x4 AT,Diesel,89.6,₹/L,12.18,16.53,14.5,km/L,10000,3,100000
+Compass Sport (4x4),Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,5000,3,100000
+Compass Longitude (4x4),Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,5000,3,100000
+Compass Model S 4x4,Diesel,89.6,₹/L,12.43,16.87,14.8,km/L,9000,3,100000
+Meridian Longitude,Diesel,89.6,₹/L,11.76,15.96,14.0,km/L,9500,3,100000
+Meridian Longitude S,Diesel,89.6,₹/L,11.34,15.39,13.5,km/L,9500,3,100000
+Meridian Overland 4x4,Diesel,89.6,₹/L,10.75,14.59,12.8,km/L,10000,3,100000
+Octavia Style,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,12000,4,100000
+Octavia RS,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,13000,4,100000
+Octavia RS Laurin & Klement,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,14000,4,100000
+Superb L&K,Petrol,102.45,₹/L,11.59,15.73,13.8,km/L,16000,4,100000
+Superb Sportline,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,16000,4,100000
+Camry Hybrid,Hybrid,102.45,₹/L,20.48,18.52,19.5,km/L,12000,3,100000
+Camry Hybrid Premium,Hybrid,102.45,₹/L,20.48,18.52,19.5,km/L,12000,3,100000
+XC40 Core,Petrol,102.45,₹/L,10.5,14.25,12.5,km/L,18000,3,100000
+XC40 Plus,Petrol,102.45,₹/L,10.5,14.25,12.5,km/L,18000,3,100000
+XC40 Ultimate,Petrol,102.45,₹/L,10.5,14.25,12.5,km/L,18000,3,100000
+XC60 B5 Core,Mild-Hybrid,102.45,₹/L,10.92,14.82,13.0,km/L,20000,3,100000
+XC60 B5 Ultimate,Mild-Hybrid,102.45,₹/L,10.92,14.82,13.0,km/L,20000,3,100000
+3 Series 320i,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,22000,3,100000
+3 Series 330Li,Petrol,102.45,₹/L,10.92,14.82,13.0,km/L,22000,3,100000
+3 Series M340i,Petrol,102.45,₹/L,10.5,14.25,12.5,km/L,28000,3,100000
+5 Series 530Li,Mild-Hybrid,102.45,₹/L,11.09,15.05,13.2,km/L,25000,3,100000
+5 Series 540Li xDrive,Mild-Hybrid,102.45,₹/L,10.08,13.68,12.0,km/L,28000,3,100000
+X1 sDrive18i,Petrol,102.45,₹/L,12.18,16.53,14.5,km/L,18000,3,100000
+X1 xDrive20i,Petrol,102.45,₹/L,11.59,15.73,13.8,km/L,20000,3,100000
+X7 xDrive40i,Petrol,102.45,₹/L,8.82,11.97,10.5,km/L,35000,3,100000
+X7 M60i,Petrol,102.45,₹/L,8.23,11.17,9.8,km/L,40000,3,100000
+C-Class C200,Mild-Hybrid,102.45,₹/L,11.76,15.96,14.0,km/L,20000,3,100000
+C-Class C220d,Diesel,89.6,₹/L,15.29,20.75,18.2,km/L,22000,3,100000
+C-Class AMG C43,Mild-Hybrid,102.45,₹/L,9.66,13.11,11.5,km/L,35000,3,100000
+E-Class E200,Mild-Hybrid,102.45,₹/L,11.59,15.73,13.8,km/L,24000,3,100000
+E-Class E220d,Diesel,89.6,₹/L,14.7,19.95,17.5,km/L,26000,3,100000
+E-Class E450,Mild-Hybrid,102.45,₹/L,10.08,13.68,12.0,km/L,35000,3,100000
+GLC 200,Mild-Hybrid,102.45,₹/L,11.34,15.39,13.5,km/L,22000,3,100000
+GLC 300d 4MATIC,Diesel,89.6,₹/L,14.11,19.15,16.8,km/L,28000,3,100000
+GLS 450d 4MATIC,Diesel,89.6,₹/L,10.08,13.68,12.0,km/L,35000,3,100000
+GLS 600 Maybach,Mild-Hybrid,102.45,₹/L,7.98,10.83,9.5,km/L,60000,3,100000
+Q3 Premium,Petrol,102.45,₹/L,11.76,15.96,14.0,km/L,18000,3,100000
+Q3 Premium Plus,Petrol,102.45,₹/L,11.59,15.73,13.8,km/L,18000,3,100000
+Q3 Technology,Petrol,102.45,₹/L,11.59,15.73,13.8,km/L,18000,3,100000
+Q7 Premium Plus,Mild-Hybrid,102.45,₹/L,9.66,13.11,11.5,km/L,28000,3,100000
+Q7 Technology,Mild-Hybrid,102.45,₹/L,9.66,13.11,11.5,km/L,30000,3,100000
+Q8 Premium Plus,Mild-Hybrid,102.45,₹/L,9.41,12.77,11.2,km/L,32000,3,100000
+Q8 Technology,Mild-Hybrid,102.45,₹/L,9.41,12.77,11.2,km/L,35000,3,100000
+Defender 90 S,Mild-Hybrid,102.45,₹/L,10.5,14.25,12.5,km/L,30000,3,100000
+Defender 110 X-Dynamic,Mild-Hybrid,102.45,₹/L,10.08,13.68,12.0,km/L,32000,3,100000
+Defender 130 X,Mild-Hybrid,102.45,₹/L,9.66,13.11,11.5,km/L,35000,3,100000
+Discovery S 3.0D,Diesel,89.6,₹/L,11.34,15.39,13.5,km/L,35000,3,100000
+Discovery HSE R-Dynamic,Diesel,89.6,₹/L,11.34,15.39,13.5,km/L,38000,3,100000
+Macan Base,Petrol,102.45,₹/L,10.75,14.59,12.8,km/L,28000,3,100000
+Macan T,Petrol,102.45,₹/L,10.5,14.25,12.5,km/L,30000,3,100000
+Macan Turbo,Petrol,102.45,₹/L,9.24,12.54,11.0,km/L,40000,3,100000
+LM350h Premium,Hybrid,102.45,₹/L,15.54,14.06,14.8,km/L,40000,3,100000
+LM500h Ultra Luxury,Hybrid,102.45,₹/L,13.12,11.88,12.5,km/L,50000,3,100000
+Vellfire Z,Hybrid,102.45,₹/L,19.95,18.05,19.0,km/L,35000,3,100000
+Vellfire Elegant Lounge,Hybrid,102.45,₹/L,19.95,18.05,19.0,km/L,35000,3,100000
+Gloster Shine,Diesel,89.6,₹/L,11.34,15.39,13.5,km/L,9000,5,100000
+Gloster Savvy,Diesel,89.6,₹/L,11.34,15.39,13.5,km/L,9000,5,100000
+EV6 Air RWD,Electric,8.2,₹/kWh,6.5,4.99,5.8,km/kWh,8000,3,100000
+EV6 GT-Line AWD,Electric,8.2,₹/kWh,6.16,4.73,5.5,km/kWh,8000,3,100000
+Ioniq 5 RWD Standard,Electric,8.2,₹/kWh,6.94,5.33,6.2,km/kWh,7000,3,100000
+Ioniq 5 AWD Long Range,Electric,8.2,₹/kWh,6.5,4.99,5.8,km/kWh,7000,3,100000
+Tucson Platinum,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,8000,3,100000
+Tucson Signature,Petrol,102.45,₹/L,11.34,15.39,13.5,km/L,8000,3,100000
+XUV700 AX3 Diesel MT,Diesel,89.6,₹/L,13.44,18.24,16.0,km/L,8000,3,100000
+XUV700 AX5 Diesel MT,Diesel,89.6,₹/L,13.44,18.24,16.0,km/L,8000,3,100000
+XUV700 AX7 AWD AT,Diesel,89.6,₹/L,12.18,16.53,14.5,km/L,9000,3,100000
+BE 6 Base,Electric,8.2,₹/kWh,8.06,6.19,7.2,km/kWh,3500,3,100000
+BE 6 Pack Three,Electric,8.2,₹/kWh,7.84,6.02,7.0,km/kWh,3500,3,100000
+XEV 9e Base,Electric,8.2,₹/kWh,7.62,5.85,6.8,km/kWh,4000,3,100000
+XEV 9e Pack Three,Electric,8.2,₹/kWh,7.28,5.59,6.5,km/kWh,4000,3,100000

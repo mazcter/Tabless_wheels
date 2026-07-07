@@ -1,0 +1,252 @@
+model_name,brand,testing_agency,test_year,protocol_max_aop,aop_score,cop_score,aop_pct,cop_pct,bodyshell_integrity,footwell_integrity,adult_stars,child_stars,tested_airbags,esc_standard,vehicle_weight_kg,ex_showroom_price_lakh,data_source
+Swift LXi,Maruti Suzuki,GNCAP,2022,34,19.19,16.68,56.44,34.04,Unstable,Unstable,1,1,2,0,900,5.79,GNCAP Official Report
+Swift VXi,Maruti Suzuki,GNCAP,2022,34,19.19,16.68,56.44,34.04,Unstable,Unstable,1,1,2,0,900,6.49,GNCAP Official Report
+Swift ZXi Plus,Maruti Suzuki,GNCAP,2022,34,19.19,16.68,56.44,34.04,Unstable,Unstable,1,1,2,0,900,8.8,GNCAP Official Report
+Creta E,Hyundai,GNCAP,2022,34,8.0,28.29,47.06,57.73,Unstable,Unstable,3,3,2,0,1300,11.0,GNCAP Official Report
+Creta S,Hyundai,GNCAP,2022,34,8.0,28.29,47.06,57.73,Unstable,Unstable,3,3,2,0,1300,12.5,GNCAP Official Report
+Creta SX,Hyundai,GNCAP,2022,34,8.0,28.29,47.06,57.73,Unstable,Unstable,3,3,2,0,1300,14.99,GNCAP Official Report
+Seltos HTE,Kia,GNCAP,2020,17,8.03,15.0,47.24,30.61,Unstable,Unstable,3,2,2,0,1300,10.89,GNCAP Official Report
+Seltos HTK,Kia,GNCAP,2020,17,8.03,15.0,47.24,30.61,Unstable,Unstable,3,2,2,0,1300,12.49,GNCAP Official Report
+Seltos HTX,Kia,BNCAP,2026,32,31.7,45.0,99.06,91.84,Stable,Stable,5,5,6,1,1350,14.99,BNCAP Official Report
+Virtus Comfortline,Volkswagen,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1200,10.5,GNCAP Official Report
+Virtus Highline,Volkswagen,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1200,13.99,GNCAP Official Report
+Virtus Topline,Volkswagen,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1200,17.49,GNCAP Official Report
+Slavia Classic,Skoda,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1200,10.99,GNCAP Official Report
+Slavia Signature,Skoda,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1200,13.49,GNCAP Official Report
+Slavia Prestige,Skoda,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1200,16.99,GNCAP Official Report
+City SV,Honda,GNCAP,2022,17,12.03,38.27,70.76,78.1,Unstable,Unstable,4,4,2,0,1100,12.0,GNCAP Official Report
+City V,Honda,GNCAP,2022,17,12.03,38.27,70.76,78.1,Unstable,Unstable,4,4,2,0,1100,14.0,GNCAP Official Report
+City VX,Honda,GNCAP,2022,17,12.03,38.27,70.76,78.1,Unstable,Unstable,4,4,2,0,1100,15.99,GNCAP Official Report
+Hector Style,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1600,14.73,No NCAP Test
+Hector Shine,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1650,17.99,No NCAP Test
+Hector Sharp Pro,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1680,23.49,No NCAP Test
+Tiago XE,Tata,GNCAP,2020,17,12.52,34.15,73.65,69.69,Unstable,Unstable,4,3,2,0,1000,5.6,GNCAP Official Report
+Tiago XT,Tata,GNCAP,2020,17,12.52,34.15,73.65,69.69,Unstable,Unstable,4,3,2,0,1000,6.49,GNCAP Official Report
+Tiago XZ Plus,Tata,GNCAP,2020,17,12.52,34.15,73.65,69.69,Unstable,Unstable,4,3,2,0,1000,8.55,GNCAP Official Report
+Nexon Smart,Tata,GNCAP,2024,34,32.22,44.52,94.76,90.86,Stable,Stable,5,5,6,1,1250,8.0,GNCAP Official Report
+Nexon Pure,Tata,GNCAP,2024,34,32.22,44.52,94.76,90.86,Stable,Stable,5,5,6,1,1250,9.99,GNCAP Official Report
+Nexon Fearless,Tata,GNCAP,2024,34,32.22,44.52,94.76,90.86,Stable,Stable,5,5,6,1,1250,14.49,GNCAP Official Report
+Baleno Sigma,Maruti Suzuki,BNCAP,2025,32,26.52,34.81,82.88,71.04,Stable,Stable,4,4,6,1,980,5.99,BNCAP Official Report
+Baleno Delta,Maruti Suzuki,BNCAP,2025,32,26.52,34.81,82.88,71.04,Stable,Stable,4,4,6,1,980,7.49,BNCAP Official Report
+Baleno Alpha,Maruti Suzuki,BNCAP,2025,32,26.52,34.81,82.88,71.04,Stable,Stable,4,4,6,1,980,9.17,BNCAP Official Report
+Brezza LXi,Maruti Suzuki,GNCAP,2018,17,12.51,17.93,73.59,36.59,Stable,Stable,4,2,2,0,1150,8.26,GNCAP Official Report
+Brezza VXi,Maruti Suzuki,GNCAP,2018,17,12.51,17.93,73.59,36.59,Stable,Stable,4,2,2,0,1150,9.99,GNCAP Official Report
+Brezza ZXi,Maruti Suzuki,GNCAP,2018,17,12.51,17.93,73.59,36.59,Stable,Stable,4,2,2,0,1150,13.01,GNCAP Official Report
+Sonet HTE,Kia,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1100,7.99,No NCAP Test
+Sonet HTK,Kia,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1100,9.49,No NCAP Test
+Sonet HTX,Kia,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1100,12.99,No NCAP Test
+XUV 3XO MX1,Mahindra,BNCAP,2024,32,29.36,43.0,91.75,87.76,Stable,Stable,5,5,6,1,1350,7.49,BNCAP Official Report
+XUV 3XO AX5,Mahindra,BNCAP,2024,32,29.36,43.0,91.75,87.76,Stable,Stable,5,5,6,1,1350,10.49,BNCAP Official Report
+XUV 3XO AX7,Mahindra,BNCAP,2024,32,29.36,43.0,91.75,87.76,Stable,Stable,5,5,6,1,1350,14.49,BNCAP Official Report
+Fronx Sigma,Maruti Suzuki,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,980,6.85,No NCAP Test
+Fronx Delta,Maruti Suzuki,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,980,8.49,No NCAP Test
+Fronx Zeta,Maruti Suzuki,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,980,10.99,No NCAP Test
+Altroz XE,Tata,GNCAP,2020,17,16.13,29.0,94.88,59.18,Stable,Stable,5,3,2,0,1050,6.6,GNCAP Official Report
+Altroz XM,Tata,GNCAP,2020,17,16.13,29.0,94.88,59.18,Stable,Stable,5,3,2,0,1050,7.75,GNCAP Official Report
+Altroz XZ,Tata,BNCAP,2025,32,29.65,44.9,92.66,91.63,Stable,Stable,5,5,6,1,1050,10.49,BNCAP Official Report
+Scorpio-N Z2,Mahindra,GNCAP,2022,34,29.25,28.93,86.03,59.04,Stable,Stable,5,3,2,0,2000,13.49,GNCAP Official Report
+Scorpio-N Z4,Mahindra,GNCAP,2022,34,29.25,28.93,86.03,59.04,Stable,Stable,5,3,2,0,2000,15.49,GNCAP Official Report
+Scorpio-N Z8,Mahindra,GNCAP,2022,34,29.25,28.93,86.03,59.04,Stable,Stable,5,3,2,0,2000,24.49,GNCAP Official Report
+Thar AX Opt,Mahindra,GNCAP,2020,17,12.52,41.11,73.65,83.9,Stable,Stable,4,4,2,1,1750,11.5,GNCAP Official Report
+Thar LX,Mahindra,GNCAP,2020,17,12.52,41.11,73.65,83.9,Stable,Stable,4,4,2,1,1750,15.49,GNCAP Official Report
+Thar Earth,Mahindra,GNCAP,2020,17,12.52,41.11,73.65,83.9,Stable,Stable,4,4,2,1,1750,19.49,GNCAP Official Report
+Safari Smart,Tata,GNCAP,2023,34,33.05,45.0,97.21,91.84,Stable,Stable,5,5,6,1,1850,15.49,GNCAP Official Report
+Safari Pure,Tata,GNCAP,2023,34,33.05,45.0,97.21,91.84,Stable,Stable,5,5,6,1,1850,18.99,GNCAP Official Report
+Safari Accomplished,Tata,GNCAP,2023,34,33.05,45.0,97.21,91.84,Stable,Stable,5,5,6,1,1850,26.49,GNCAP Official Report
+Kiger RXE,Renault,GNCAP,2022,17,12.34,21.05,72.59,42.96,Unstable,Stable,4,2,4,0,1050,5.99,GNCAP Official Report
+Kiger RXT,Renault,GNCAP,2022,17,12.34,21.05,72.59,42.96,Unstable,Stable,4,2,4,0,1050,7.49,GNCAP Official Report
+Kiger RXZ,Renault,GNCAP,2022,17,12.34,21.05,72.59,42.96,Unstable,Stable,4,2,4,0,1050,10.49,GNCAP Official Report
+Magnite XE,Nissan,GNCAP,2022,17,11.85,24.88,69.71,50.78,Stable,Stable,4,2,2,0,1000,5.99,GNCAP Official Report
+Magnite XL,Nissan,GNCAP,2022,17,11.85,24.88,69.71,50.78,Stable,Stable,4,2,2,0,1000,7.49,GNCAP Official Report
+Magnite XV,Nissan,GNCAP,2022,17,11.85,24.88,69.71,50.78,Stable,Stable,4,2,2,0,1000,10.49,GNCAP Official Report
+Grand i10 Nios Era,Hyundai,GNCAP,2020,17,7.05,15.0,41.47,30.61,Unstable,Unstable,2,2,2,0,950,5.92,GNCAP Official Report
+Grand i10 Nios Magna,Hyundai,GNCAP,2020,17,7.05,15.0,41.47,30.61,Unstable,Unstable,2,2,2,0,950,7.49,GNCAP Official Report
+Grand i10 Nios Asta,Hyundai,GNCAP,2020,17,7.05,15.0,41.47,30.61,Unstable,Unstable,2,2,2,0,950,8.9,GNCAP Official Report
+Glanza E,Toyota,GNCAP,2022,17,13.52,26.68,79.53,54.45,Stable,Stable,4,3,2,0,980,6.59,GNCAP Official Report
+Glanza S,Toyota,GNCAP,2022,17,13.52,26.68,79.53,54.45,Stable,Stable,4,3,2,0,980,7.99,GNCAP Official Report
+Glanza V,Toyota,GNCAP,2022,17,13.52,26.68,79.53,54.45,Stable,Stable,4,3,2,0,980,9.59,GNCAP Official Report
+Elevate SV,Honda,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1250,11.69,No NCAP Test
+Elevate V,Honda,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1250,14.49,No NCAP Test
+Elevate ZX,Honda,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1250,16.49,No NCAP Test
+Verna EX,Hyundai,GNCAP,2023,34,28.18,42.0,82.88,85.71,Stable,Unstable,5,5,6,1,1150,10.99,GNCAP Official Report
+Verna S,Hyundai,GNCAP,2023,34,28.18,42.0,82.88,85.71,Stable,Unstable,5,5,6,1,1150,13.49,GNCAP Official Report
+Verna SX Opt,Hyundai,GNCAP,2023,34,28.18,42.0,82.88,85.71,Stable,Unstable,5,5,6,1,1150,18.41,GNCAP Official Report
+Kushaq Active,Skoda,GNCAP,2022,34,29.64,42.0,87.18,85.71,Stable,Stable,5,5,2,1,1250,10.49,GNCAP Official Report
+Kushaq Ambition,Skoda,GNCAP,2022,34,29.64,42.0,87.18,85.71,Stable,Stable,5,5,2,1,1250,13.49,GNCAP Official Report
+Kushaq Style,Skoda,GNCAP,2022,34,29.64,42.0,87.18,85.71,Stable,Stable,5,5,2,1,1250,17.49,GNCAP Official Report
+Taigun Comfortline,Volkswagen,GNCAP,2022,34,29.64,42.0,87.18,85.71,Stable,Stable,5,5,2,1,1250,10.99,GNCAP Official Report
+Taigun Highline,Volkswagen,GNCAP,2022,34,29.64,42.0,87.18,85.71,Stable,Stable,5,5,2,1,1250,13.49,GNCAP Official Report
+Taigun Topline,Volkswagen,GNCAP,2022,34,29.64,42.0,87.18,85.71,Stable,Stable,5,5,2,1,1250,18.49,GNCAP Official Report
+C3 Live,Citroen,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1050,6.16,No NCAP Test
+C3 Feel,Citroen,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1050,7.49,No NCAP Test
+C3 Shine,Citroen,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1050,8.49,No NCAP Test
+Compass Sport,Jeep,GNCAP,2017,17,12.0,38.27,70.59,78.1,Stable,Stable,4,4,2,0,1615,20.99,GNCAP Official Report
+Compass Longitude,Jeep,GNCAP,2017,17,12.0,38.27,70.59,78.1,Stable,Stable,4,4,2,0,1660,25.99,GNCAP Official Report
+Compass Model S,Jeep,GNCAP,2017,17,12.0,38.27,70.59,78.1,Stable,Stable,4,4,2,0,1710,30.49,GNCAP Official Report
+Innova Crysta G,Toyota,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1830,19.72,No NCAP Test
+Innova Crysta GX,Toyota,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1870,22.99,No NCAP Test
+Innova Crysta VX,Toyota,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1900,26.77,No NCAP Test
+Bolero Neo N4,Mahindra,GNCAP,2024,34,20.26,12.71,59.59,25.94,Unstable,Unstable,1,1,2,0,1550,9.99,GNCAP Official Report
+Bolero Neo N8,Mahindra,GNCAP,2024,34,20.26,12.71,59.59,25.94,Unstable,Unstable,1,1,2,0,1550,11.49,GNCAP Official Report
+Bolero Neo N10,Mahindra,GNCAP,2024,34,20.26,12.71,59.59,25.94,Unstable,Unstable,1,1,2,0,1550,12.49,GNCAP Official Report
+Carens Premium,Kia,GNCAP,2024,34,22.07,41.0,64.91,83.67,Unstable,Unstable,3,5,6,1,1350,10.49,GNCAP Official Report
+Carens Prestige,Kia,GNCAP,2024,34,22.07,41.0,64.91,83.67,Unstable,Unstable,3,5,6,1,1350,11.49,GNCAP Official Report
+Carens Luxury,Kia,GNCAP,2024,34,22.07,41.0,64.91,83.67,Unstable,Unstable,3,5,6,1,1350,12.88,GNCAP Official Report
+Dzire LXi,Maruti Suzuki,GNCAP,2024,34,31.24,39.2,91.88,80.0,Stable,Stable,5,4,6,1,920,6.26,GNCAP Official Report
+Dzire VXi,Maruti Suzuki,GNCAP,2024,34,31.24,39.2,91.88,80.0,Stable,Stable,5,4,6,1,920,7.49,GNCAP Official Report
+Dzire ZXi,Maruti Suzuki,GNCAP,2024,34,31.24,39.2,91.88,80.0,Stable,Stable,5,4,6,1,920,9.36,GNCAP Official Report
+Ertiga LXi,Maruti Suzuki,GNCAP,2019,17,9.25,25.16,54.41,51.35,Unstable,Unstable,3,3,2,0,1150,8.85,GNCAP Official Report
+Ertiga VXi,Maruti Suzuki,GNCAP,2019,17,9.25,25.16,54.41,51.35,Unstable,Unstable,3,3,2,0,1150,10.49,GNCAP Official Report
+Ertiga ZXi,Maruti Suzuki,GNCAP,2019,17,9.25,25.16,54.41,51.35,Unstable,Unstable,3,3,2,0,1150,12.99,GNCAP Official Report
+Punch Pure,Tata,GNCAP,2021,17,16.45,40.89,96.76,83.45,Stable,Stable,5,4,2,0,1000,6.0,GNCAP Official Report
+Punch Adventure,Tata,GNCAP,2021,17,16.45,40.89,96.76,83.45,Stable,Stable,5,4,2,0,1000,8.49,GNCAP Official Report
+Punch Creative,Tata,GNCAP,2021,17,16.45,40.89,96.76,83.45,Stable,Stable,5,4,2,0,1000,10.6,GNCAP Official Report
+Venue E,Hyundai,BNCAP,2026,32,31.15,44.46,97.34,90.73,Stable,Stable,5,5,6,1,1200,7.94,BNCAP Official Report
+Venue S,Hyundai,BNCAP,2026,32,31.15,44.46,97.34,90.73,Stable,Stable,5,5,6,1,1200,9.49,BNCAP Official Report
+Venue SX,Hyundai,BNCAP,2026,32,31.15,44.46,97.34,90.73,Stable,Stable,5,5,6,1,1200,12.99,BNCAP Official Report
+Amaze E,Honda,BNCAP,2025,32,28.33,40.81,88.53,83.29,Stable,Stable,5,4,6,1,950,8.0,BNCAP Official Report
+Amaze S,Honda,BNCAP,2025,32,28.33,40.81,88.53,83.29,Stable,Stable,5,4,6,1,950,9.49,BNCAP Official Report
+Amaze VX,Honda,BNCAP,2025,32,28.33,40.81,88.53,83.29,Stable,Stable,5,4,6,1,950,11.49,BNCAP Official Report
+Astor Sprint,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1400,14.49,No NCAP Test
+Astor Shine,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1430,17.49,No NCAP Test
+Astor Savvy,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1460,20.49,No NCAP Test
+Triber RXE,Renault,GNCAP,2021,17,11.62,27.0,68.35,55.1,Unstable,Stable,4,3,2,0,950,5.99,GNCAP Official Report
+Triber RXT,Renault,GNCAP,2021,17,11.62,27.0,68.35,55.1,Unstable,Stable,4,3,2,0,950,7.49,GNCAP Official Report
+Triber RXZ,Renault,GNCAP,2021,17,11.62,27.0,68.35,55.1,Unstable,Stable,4,3,2,0,950,8.99,GNCAP Official Report
+WagonR LXi,Maruti Suzuki,GNCAP,2023,34,19.69,3.4,57.91,6.94,Unstable,Unstable,1,0,2,0,850,5.49,GNCAP Official Report
+WagonR VXi,Maruti Suzuki,GNCAP,2023,34,19.69,3.4,57.91,6.94,Unstable,Unstable,1,0,2,0,850,6.49,GNCAP Official Report
+WagonR ZXi,Maruti Suzuki,GNCAP,2023,34,19.69,3.4,57.91,6.94,Unstable,Unstable,1,0,2,0,850,7.99,GNCAP Official Report
+Creta S IVT,Hyundai,GNCAP,2022,34,8.0,28.29,47.06,57.73,Unstable,Unstable,3,3,2,0,1350,14.49,GNCAP Official Report
+Creta SX IVT,Hyundai,GNCAP,2022,34,8.0,28.29,47.06,57.73,Unstable,Unstable,3,3,2,0,1350,17.49,GNCAP Official Report
+Creta SX Opt IVT,Hyundai,GNCAP,2022,34,8.0,28.29,47.06,57.73,Unstable,Unstable,3,3,2,0,1350,19.99,GNCAP Official Report
+XUV700 AX3 AT,Mahindra,GNCAP,2021,17,16.03,41.66,94.29,85.02,Stable,Stable,5,4,2,0,1950,19.99,GNCAP Official Report
+XUV700 AX5 AT,Mahindra,GNCAP,2021,17,16.03,41.66,94.29,85.02,Stable,Stable,5,4,2,0,1950,22.99,GNCAP Official Report
+XUV700 AX7 L AT,Mahindra,GNCAP,2021,17,16.03,41.66,94.29,85.02,Stable,Stable,5,4,2,0,1950,27.49,GNCAP Official Report
+City V CVT,Honda,GNCAP,2022,17,12.03,38.27,70.76,78.1,Unstable,Unstable,4,4,2,0,1120,14.99,GNCAP Official Report
+City VX CVT,Honda,GNCAP,2022,17,12.03,38.27,70.76,78.1,Unstable,Unstable,4,4,2,0,1120,16.49,GNCAP Official Report
+City ZX CVT,Honda,GNCAP,2022,17,12.03,38.27,70.76,78.1,Unstable,Unstable,4,4,2,0,1120,17.99,GNCAP Official Report
+Virtus Highline AT,Volkswagen,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1210,16.49,GNCAP Official Report
+Virtus Topline AT,Volkswagen,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1210,18.49,GNCAP Official Report
+Virtus GT Plus DSG,Volkswagen,GNCAP,2023,34,29.71,42.0,87.38,85.71,Stable,Stable,5,5,2,1,1250,19.0,GNCAP Official Report
+Nexon Creative DCA,Tata,GNCAP,2024,34,32.22,44.52,94.76,90.86,Stable,Stable,5,5,6,1,1280,14.49,GNCAP Official Report
+Nexon Fearless DCA,Tata,GNCAP,2024,34,32.22,44.52,94.76,90.86,Stable,Stable,5,5,6,1,1280,16.49,GNCAP Official Report
+Nexon Fearless Plus DCA,Tata,GNCAP,2024,34,32.22,44.52,94.76,90.86,Stable,Stable,5,5,6,1,1280,17.49,GNCAP Official Report
+Innova Hycross VX e-CVT,Toyota,BNCAP,2025,32,30.47,45.0,95.22,91.84,Stable,Stable,5,5,6,1,1750,19.45,BNCAP Official Report
+Innova Hycross ZX e-CVT,Toyota,BNCAP,2025,32,30.47,45.0,95.22,91.84,Stable,Stable,5,5,6,1,1780,23.49,BNCAP Official Report
+Innova Hycross ZX Opt e-CVT,Toyota,BNCAP,2025,32,30.47,45.0,95.22,91.84,Stable,Stable,5,5,6,1,1800,28.49,BNCAP Official Report
+Seltos HTX IVT,Kia,BNCAP,2026,32,31.7,45.0,99.06,91.84,Stable,Stable,5,5,6,1,1380,16.99,BNCAP Official Report
+Seltos GTX Plus DCT,Kia,BNCAP,2026,32,31.7,45.0,99.06,91.84,Stable,Stable,5,5,6,1,1400,20.49,BNCAP Official Report
+Seltos X-Line DCT,Kia,BNCAP,2026,32,31.7,45.0,99.06,91.84,Stable,Stable,5,5,6,1,1410,21.99,BNCAP Official Report
+Grand Vitara Delta AT,Maruti Suzuki,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1280,14.49,No NCAP Test
+Grand Vitara Zeta AT,Maruti Suzuki,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1300,17.49,No NCAP Test
+Grand Vitara Alpha AT,Maruti Suzuki,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1320,19.72,No NCAP Test
+Hector Shine CVT,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1680,19.49,No NCAP Test
+Hector Smart CVT,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1700,21.49,No NCAP Test
+Hector Savvy Pro CVT,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1720,23.49,No NCAP Test
+Baleno Delta AMT,Maruti Suzuki,BNCAP,2025,32,26.52,34.81,82.88,71.04,Stable,Stable,4,4,6,1,990,7.99,BNCAP Official Report
+Baleno Zeta AMT,Maruti Suzuki,BNCAP,2025,32,26.52,34.81,82.88,71.04,Stable,Stable,4,4,6,1,990,8.49,BNCAP Official Report
+Baleno Alpha AMT,Maruti Suzuki,BNCAP,2025,32,26.52,34.81,82.88,71.04,Stable,Stable,4,4,6,1,990,9.17,BNCAP Official Report
+Sonet HTK Plus DCT,Kia,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1120,12.49,No NCAP Test
+Sonet HTX DCT,Kia,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1130,13.49,No NCAP Test
+Sonet GTX Plus DCT,Kia,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1150,14.99,No NCAP Test
+Scorpio-N Z4 AT,Mahindra,GNCAP,2022,34,29.25,28.93,86.03,59.04,Stable,Stable,5,3,2,0,2050,18.49,GNCAP Official Report
+Scorpio-N Z8 AT,Mahindra,GNCAP,2022,34,29.25,28.93,86.03,59.04,Stable,Stable,5,3,2,0,2050,22.49,GNCAP Official Report
+Scorpio-N Z8 L AT,Mahindra,GNCAP,2022,34,29.25,28.93,86.03,59.04,Stable,Stable,5,3,2,0,2080,24.49,GNCAP Official Report
+Nexon.ev Creative,Tata,BNCAP,2024,32,29.86,44.95,93.31,91.73,Stable,Stable,5,5,6,1,1400,13.99,BNCAP Official Report
+Nexon.ev Fearless,Tata,BNCAP,2024,32,29.86,44.95,93.31,91.73,Stable,Stable,5,5,6,1,1420,16.49,BNCAP Official Report
+Nexon.ev Empowered,Tata,BNCAP,2024,32,29.86,44.95,93.31,91.73,Stable,Stable,5,5,6,1,1440,17.49,BNCAP Official Report
+Punch.ev Smart,Tata,BNCAP,2024,32,31.46,45.0,98.31,91.84,Stable,Stable,5,5,6,1,1250,10.99,BNCAP Official Report
+Punch.ev Adventure,Tata,BNCAP,2024,32,31.46,45.0,98.31,91.84,Stable,Stable,5,5,6,1,1260,12.49,BNCAP Official Report
+Punch.ev Empowered,Tata,BNCAP,2024,32,31.46,45.0,98.31,91.84,Stable,Stable,5,5,6,1,1270,14.49,BNCAP Official Report
+Tiago.ev XE,Tata,GNCAP,2020,17,12.52,34.15,73.65,69.69,Unstable,Unstable,4,3,2,0,1060,8.49,GNCAP Official Report
+Tiago.ev XT,Tata,GNCAP,2020,17,12.52,34.15,73.65,69.69,Unstable,Unstable,4,3,2,0,1060,9.49,GNCAP Official Report
+Tiago.ev XZ Plus,Tata,GNCAP,2020,17,12.52,34.15,73.65,69.69,Unstable,Unstable,4,3,2,0,1060,11.49,GNCAP Official Report
+XUV400 EC Pro,Mahindra,BNCAP,2024,32,30.38,43.0,94.94,87.76,Stable,Stable,5,5,6,1,1550,15.49,BNCAP Official Report
+XUV400 EL Pro 34.5,Mahindra,BNCAP,2024,32,30.38,43.0,94.94,87.76,Stable,Stable,5,5,6,1,1570,17.99,BNCAP Official Report
+XUV400 EL Pro 39.4,Mahindra,BNCAP,2024,32,30.38,43.0,94.94,87.76,Stable,Stable,5,5,6,1,1590,19.49,BNCAP Official Report
+Curvv.ev Creative,Tata,BNCAP,2024,32,30.81,44.83,96.28,91.49,Stable,Stable,5,5,6,1,1980,17.49,BNCAP Official Report
+Curvv.ev Accomplished,Tata,BNCAP,2024,32,30.81,44.83,96.28,91.49,Stable,Stable,5,5,6,1,2000,19.49,BNCAP Official Report
+Curvv.ev Empowered,Tata,BNCAP,2024,32,30.81,44.83,96.28,91.49,Stable,Stable,5,5,6,1,2020,21.49,BNCAP Official Report
+ZS EV Executive,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1625,18.98,No NCAP Test
+ZS EV Excite,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1640,21.49,No NCAP Test
+ZS EV Exclusive,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1660,24.49,No NCAP Test
+Comet EV Executive,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,840,7.6,No NCAP Test
+Comet EV Excite,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,845,8.49,No NCAP Test
+Comet EV Exclusive,MG,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,850,9.73,No NCAP Test
+BYD Atto 3 Dynamic,BYD,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1750,33.99,No NCAP Test
+BYD Atto 3 Premium,BYD,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1760,36.99,No NCAP Test
+BYD Atto 3 Superior,BYD,Unrated,0,0,0.0,0.0,0.0,0.0,,,0,0,0,0,1770,39.99,No NCAP Test
+Fortuner 2.7 Petrol AT,Toyota,GNCAP,2021,17,16.03,35.0,94.29,71.43,Stable,Stable,5,4,2,1,1930,36.05,GNCAP Official Report
+Fortuner 2.8 Diesel MT,Toyota,GNCAP,2021,17,16.03,35.0,94.29,71.43,Stable,Stable,5,4,2,1,2090,36.73,GNCAP Official Report
+Fortuner Legender 4x4 AT,Toyota,GNCAP,2021,17,16.03,35.0,94.29,71.43,Stable,Stable,5,4,2,1,2155,52.34,GNCAP Official Report
+Compass Sport,Jeep,GNCAP,2017,17,12.0,38.27,70.59,78.1,Stable,Stable,4,4,2,0,1615,20.99,GNCAP Official Report
+Compass Longitude,Jeep,GNCAP,2017,17,12.0,38.27,70.59,78.1,Stable,Stable,4,4,2,0,1660,25.99,GNCAP Official Report
+Compass Model S 4x4,Jeep,GNCAP,2017,17,12.0,38.27,70.59,78.1,Stable,Stable,4,4,2,0,1710,30.49,GNCAP Official Report
+Meridian Longitude,Jeep,BNCAP,2023,32,29.5,42.0,92.19,85.71,Stable,Stable,5,4,6,1,1965,32.99,BNCAP Official Report
+Meridian Longitude S,Jeep,BNCAP,2023,32,29.5,42.0,92.19,85.71,Stable,Stable,5,4,6,1,1995,36.99,BNCAP Official Report
+Meridian Overland 4x4,Jeep,BNCAP,2023,32,29.5,42.0,92.19,85.71,Stable,Stable,5,4,6,1,2010,41.99,BNCAP Official Report
+Octavia Style,Skoda,Euro NCAP,2021,34,32.0,43.0,94.12,87.76,Stable,Stable,5,5,6,1,1395,26.29,Euro NCAP Official Report
+Octavia RS,Skoda,Euro NCAP,2021,34,32.0,43.0,94.12,87.76,Stable,Stable,5,5,6,1,1427,28.99,Euro NCAP Official Report
+Octavia RS Laurin & Klement,Skoda,Euro NCAP,2021,34,32.0,43.0,94.12,87.76,Stable,Stable,5,5,6,1,1455,31.49,Euro NCAP Official Report
+Superb L&K,Skoda,Euro NCAP,2023,34,33.0,44.5,97.06,90.82,Stable,Stable,5,5,6,1,1520,54.99,Euro NCAP Official Report
+Superb Sportline,Skoda,Euro NCAP,2023,34,33.0,44.5,97.06,90.82,Stable,Stable,5,5,6,1,1545,59.99,Euro NCAP Official Report
+Camry Hybrid,Toyota,Euro NCAP,2022,34,32.5,43.0,95.59,87.76,Stable,Stable,5,5,6,1,1630,46.17,Euro NCAP Official Report
+Camry Hybrid Premium,Toyota,Euro NCAP,2022,34,32.5,43.0,95.59,87.76,Stable,Stable,5,5,6,1,1640,48.99,Euro NCAP Official Report
+XC40 Core,Volvo,Euro NCAP,2023,34,33.05,44.0,97.21,89.8,Stable,Stable,5,5,6,1,1790,43.45,Euro NCAP Official Report
+XC40 Plus,Volvo,Euro NCAP,2023,34,33.05,44.0,97.21,89.8,Stable,Stable,5,5,6,1,1790,46.49,Euro NCAP Official Report
+XC40 Ultimate,Volvo,Euro NCAP,2023,34,33.05,44.0,97.21,89.8,Stable,Stable,5,5,6,1,1810,49.99,Euro NCAP Official Report
+XC60 B5 Core,Volvo,Euro NCAP,2023,34,33.0,44.5,97.06,90.82,Stable,Stable,5,5,6,1,1950,68.4,Euro NCAP Official Report
+XC60 B5 Ultimate,Volvo,Euro NCAP,2023,34,33.0,44.5,97.06,90.82,Stable,Stable,5,5,6,1,1980,75.9,Euro NCAP Official Report
+3 Series 320i,BMW,Euro NCAP,2022,34,32.9,44.0,96.76,89.8,Stable,Stable,5,5,6,1,1500,62.0,Euro NCAP Official Report
+3 Series 330Li,BMW,Euro NCAP,2022,34,32.9,44.0,96.76,89.8,Stable,Stable,5,5,6,1,1520,69.49,Euro NCAP Official Report
+3 Series M340i,BMW,Euro NCAP,2022,34,32.9,44.0,96.76,89.8,Stable,Stable,5,5,6,1,1720,76.4,Euro NCAP Official Report
+5 Series 530Li,BMW,Euro NCAP,2024,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,1875,75.8,Euro NCAP Official Report
+5 Series 540Li xDrive,BMW,Euro NCAP,2024,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,1920,99.9,Euro NCAP Official Report
+X1 sDrive18i,BMW,Euro NCAP,2023,34,32.8,43.5,96.47,88.78,Stable,Stable,5,5,6,1,1720,49.0,Euro NCAP Official Report
+X1 xDrive20i,BMW,Euro NCAP,2023,34,32.8,43.5,96.47,88.78,Stable,Stable,5,5,6,1,1790,55.9,Euro NCAP Official Report
+X7 xDrive40i,BMW,Euro NCAP,2023,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2510,127.0,Euro NCAP Official Report
+X7 M60i,BMW,Euro NCAP,2023,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2560,136.0,Euro NCAP Official Report
+C-Class C200,Mercedes-Benz,Euro NCAP,2022,34,33.2,44.0,97.65,89.8,Stable,Stable,5,5,6,1,1530,59.4,Euro NCAP Official Report
+C-Class C220d,Mercedes-Benz,Euro NCAP,2022,34,33.2,44.0,97.65,89.8,Stable,Stable,5,5,6,1,1580,64.9,Euro NCAP Official Report
+C-Class AMG C43,Mercedes-Benz,Euro NCAP,2022,34,33.2,44.0,97.65,89.8,Stable,Stable,5,5,6,1,1870,80.0,Euro NCAP Official Report
+E-Class E200,Mercedes-Benz,Euro NCAP,2024,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,1835,78.5,Euro NCAP Official Report
+E-Class E220d,Mercedes-Benz,Euro NCAP,2024,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,1880,81.5,Euro NCAP Official Report
+E-Class E450,Mercedes-Benz,Euro NCAP,2024,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,1920,92.5,Euro NCAP Official Report
+GLC 200,Mercedes-Benz,Euro NCAP,2023,34,33.3,44.5,97.94,90.82,Stable,Stable,5,5,6,1,1850,77.5,Euro NCAP Official Report
+GLC 300d 4MATIC,Mercedes-Benz,Euro NCAP,2023,34,33.3,44.5,97.94,90.82,Stable,Stable,5,5,6,1,1910,88.5,Euro NCAP Official Report
+GLS 450d 4MATIC,Mercedes-Benz,Euro NCAP,2024,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2395,132.0,Euro NCAP Official Report
+GLS 600 Maybach,Mercedes-Benz,Euro NCAP,2024,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2560,296.0,Euro NCAP Official Report
+Q3 Premium,Audi,Euro NCAP,2022,34,32.5,43.5,95.59,88.78,Stable,Stable,5,5,6,1,1490,44.99,Euro NCAP Official Report
+Q3 Premium Plus,Audi,Euro NCAP,2022,34,32.5,43.5,95.59,88.78,Stable,Stable,5,5,6,1,1510,49.99,Euro NCAP Official Report
+Q3 Technology,Audi,Euro NCAP,2022,34,32.5,43.5,95.59,88.78,Stable,Stable,5,5,6,1,1540,54.99,Euro NCAP Official Report
+Q7 Premium Plus,Audi,Euro NCAP,2024,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2175,88.66,Euro NCAP Official Report
+Q7 Technology,Audi,Euro NCAP,2024,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2210,98.66,Euro NCAP Official Report
+Q8 Premium Plus,Audi,Euro NCAP,2024,34,32.8,44.0,96.47,89.8,Stable,Stable,5,5,6,1,2100,107.0,Euro NCAP Official Report
+Q8 Technology,Audi,Euro NCAP,2024,34,32.8,44.0,96.47,89.8,Stable,Stable,5,5,6,1,2130,143.0,Euro NCAP Official Report
+Defender 90 S,Land Rover,Euro NCAP,2022,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2185,103.0,Euro NCAP Official Report
+Defender 110 X-Dynamic,Land Rover,Euro NCAP,2022,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2225,131.0,Euro NCAP Official Report
+Defender 130 X,Land Rover,Euro NCAP,2022,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2700,180.0,Euro NCAP Official Report
+Discovery S 3.0D,Land Rover,Euro NCAP,2022,34,32.0,43.5,94.12,88.78,Stable,Stable,5,5,6,1,2244,134.2,Euro NCAP Official Report
+Discovery HSE R-Dynamic,Land Rover,Euro NCAP,2022,34,32.0,43.5,94.12,88.78,Stable,Stable,5,5,6,1,2280,138.99,Euro NCAP Official Report
+Macan Base,Porsche,Euro NCAP,2024,34,33.5,44.0,98.53,89.8,Stable,Stable,5,5,6,1,1985,86.73,Euro NCAP Official Report
+Macan T,Porsche,Euro NCAP,2024,34,33.5,44.0,98.53,89.8,Stable,Stable,5,5,6,1,2010,94.99,Euro NCAP Official Report
+Macan Turbo,Porsche,Euro NCAP,2024,34,33.5,44.0,98.53,89.8,Stable,Stable,5,5,6,1,2095,147.0,Euro NCAP Official Report
+LM350h Premium,Lexus,Euro NCAP,2024,34,32.5,43.5,95.59,88.78,Stable,Stable,5,5,6,1,2020,120.0,Euro NCAP Official Report
+LM500h Ultra Luxury,Lexus,Euro NCAP,2024,34,32.5,43.5,95.59,88.78,Stable,Stable,5,5,6,1,2100,145.0,Euro NCAP Official Report
+Vellfire Z,Toyota,Euro NCAP,2024,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2150,120.0,Euro NCAP Official Report
+Vellfire Elegant Lounge,Toyota,Euro NCAP,2024,34,33.0,44.0,97.06,89.8,Stable,Stable,5,5,6,1,2175,130.0,Euro NCAP Official Report
+Gloster Shine,MG,BNCAP,2022,32,27.5,41.0,85.94,83.67,Stable,Stable,4,4,6,1,2185,38.8,BNCAP Official Report
+Gloster Savvy,MG,BNCAP,2022,32,27.5,41.0,85.94,83.67,Stable,Stable,4,4,6,1,2215,44.8,BNCAP Official Report
+EV6 Air RWD,Kia,Euro NCAP,2022,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,1820,60.95,Euro NCAP Official Report
+EV6 GT-Line AWD,Kia,Euro NCAP,2022,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,2020,65.95,Euro NCAP Official Report
+Ioniq 5 RWD Standard,Hyundai,Euro NCAP,2022,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,1980,44.95,Euro NCAP Official Report
+Ioniq 5 AWD Long Range,Hyundai,Euro NCAP,2022,34,33.5,44.5,98.53,90.82,Stable,Stable,5,5,6,1,2100,52.99,Euro NCAP Official Report
+Tucson Platinum,Hyundai,BNCAP,2024,32,30.84,41.0,96.38,83.67,Stable,Stable,5,5,6,1,1550,29.02,BNCAP Official Report
+Tucson Signature,Hyundai,BNCAP,2024,32,30.84,41.0,96.38,83.67,Stable,Stable,5,5,6,1,1585,34.49,BNCAP Official Report
+XUV700 AX3 Diesel MT,Mahindra,GNCAP,2021,17,16.03,41.66,94.29,85.02,Stable,Stable,5,4,2,0,2100,13.99,GNCAP Official Report
+XUV700 AX5 Diesel MT,Mahindra,GNCAP,2021,17,16.03,41.66,94.29,85.02,Stable,Stable,5,4,2,0,2130,17.99,GNCAP Official Report
+XUV700 AX7 AWD AT,Mahindra,GNCAP,2021,17,16.03,41.66,94.29,85.02,Stable,Stable,5,4,2,0,2200,26.99,GNCAP Official Report
+BE 6 Base,Mahindra,BNCAP,2025,32,31.97,45.0,99.91,91.84,Stable,Stable,5,5,6,1,1900,18.9,BNCAP Official Report
+BE 6 Pack Three,Mahindra,BNCAP,2025,32,31.97,45.0,99.91,91.84,Stable,Stable,5,5,6,1,1980,26.9,BNCAP Official Report
+XEV 9e Base,Mahindra,BNCAP,2025,32,32.0,45.0,100.0,91.84,Stable,Stable,5,5,6,1,2050,21.9,BNCAP Official Report
+XEV 9e Pack Three,Mahindra,BNCAP,2025,32,32.0,45.0,100.0,91.84,Stable,Stable,5,5,6,1,2150,30.5,BNCAP Official Report
