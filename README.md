@@ -133,6 +133,4 @@ Key tunables live at the top of the script:
 
 Single-file design (`car_market_suite.py`) organized into clear sections: universal helpers, fuzzy matching, clustering pipeline, review/view-score loaders, diagnostics logic, interpretation layer, LLM integration, PDF rendering, console display, and public API (`run_diagnostics`, `run_view_explorer`, `main`).
 
-## License
 
-Add your preferred license here (e.g. MIT).
