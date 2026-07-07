@@ -1,4 +1,4 @@
-# Car Market Suite
+# Tabless Wheels
 
 A terminal-styled, explainable car recommendation and diagnostics engine. Instead of predicting a single price or score, it clusters vehicles from five different perspectives, explains *why* a car sits where it does relative to its peers, infers a buyer profile from the same evidence, and generates a hacker-aesthetic PDF report with quantified trade-offs and ranked alternatives.
 
@@ -146,7 +146,7 @@ Rendered with `fpdf2` in monospace Courier, dark background, phosphor-green/ambe
 ## Usage
 
 ```bash
-python car_market_suite.py --car "Hyundai Venue SX" --stretch 2.0
+python tabless_wheelsv2.py --car "Hyundai Venue SX" --stretch 2.0
 ```
 
 Optional flags:
@@ -162,7 +162,7 @@ Optional: a local [Ollama](https://ollama.com/) server (`ollama serve`) for LLM-
 ## File Structure
 
 ```
-car_market_suite.py          # Main pipeline + report generator
+tabless_wheelsv2.py          # Main pipeline + report generator
 outputs/
   master_clustered.csv       # Stage 1 output — single source of truth for Stage 2
   json/                      # Per-perspective cluster tables (CSV + JSON)
