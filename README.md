@@ -1,7 +1,6 @@
 # Tabless Wheels
 
-A terminal-styled, explainable car recommendation and diagnostics engine. Instead of predicting a single price or score, it clusters vehicles from five different perspectives, explains *why* a car sits where it does relative to its peers, infers a buyer profile from the same evidence, and generates a hacker-aesthetic PDF report with quantified trade-offs and ranked alternatives.
-
+An explainability-first vehicle recommendation engine that combines clustering, engineered scoring, and multi-criteria decision analysis to evaluate cars from five perspectives, explain their position relative to comparable vehicles, quantify purchase trade-offs, infer buyer profiles, and generate professional terminal-style diagnostic reports.
 ---
 
 ## Table of Contents
