@@ -1,4 +1,4 @@
-# Tabless Wheels
+# Tab-less Wheels
 
 **An explainability-first vehicle recommendation engine** that combines clustering, engineered scoring, and multi-criteria decision analysis to evaluate cars from five perspectives — quantifying trade-offs, inferring buyer profiles, and generating professional terminal-style diagnostic reports.
 
